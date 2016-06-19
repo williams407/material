@@ -29,8 +29,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Hello, I'm Naveen, a freelance front-end developer
   and UI designer. Check out my projects on GitHub
 baseurl: "/material/" # the subpath of your site, e.g. /blog/
-url: "http://naveenshaji.github.io/material" # the base hostname & protocol for your site
-twitter_username: navvenshady
+url: "http://williams407.github.io/material" # the base hostname & protocol for your site
+twitter_username: 
 github_username:  naveenshaji
 css: "cyan"
 scroll-cursor: "#00BCD4"
